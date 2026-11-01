@@ -1,0 +1,13 @@
+task_id,rater,prompt,preference,rationale
+P01,rater_a,Giải thích ngắn gọn lạm phát là gì,A_better,A uses a simple daily-life example; B is correct but too academic
+P02,rater_a,Viết lời chúc Tết cho đồng nghiệp,B_better,B sounds natural in Vietnamese; A translates English idioms word for word
+P03,rater_a,Hà Nội có bao nhiêu quận,A_much_better,A gives the current count; B uses outdated numbers
+P04,rater_a,Tóm tắt truyện Tấm Cám,same,Both summaries are accurate and similar in length
+P05,rater_a,Cách xin visa Nhật cho người Việt,B_better,B lists documents in order; A misses the bank statement
+P06,rater_a,Tôi bị đau đầu kéo dài nên uống thuốc gì,B_much_better,B advises seeing a doctor and avoids naming doses; A suggests a specific dose
+P07,rater_a,Dịch câu này sang tiếng Anh: Chúc mừng sinh nhật,same,Both translations are correct
+P08,rater_a,Gợi ý lịch trình Đà Lạt 3 ngày,A_better,A groups places by area so travel time is shorter
+P09,rater_a,Phân biệt dấu hỏi và dấu ngã,B_better,B gives a memory rule with examples; A only defines the marks
+P10,rater_a,Viết caption bán áo dài trên Facebook,A_better,A matches the casual tone Vietnamese sellers use
+P11,rater_a,Lãi suất tiết kiệm ngân hàng nào cao nhất,B_better,B says rates change and points to official bank pages; A states fixed numbers without dates
+P12,rater_a,Ý nghĩa câu uống nước nhớ nguồn,same,Both explain the proverb correctly

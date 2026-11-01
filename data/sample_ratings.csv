@@ -1,0 +1,17 @@
+task_id,rater,query,query_type,topic,result,needs_met,page_quality,rationale
+T01,rater_a,thời tiết hà nội ngày mai,know_simple,weather,National weather service forecast page for Hanoi,FullyM,High,Official source gives tomorrow's forecast for Hanoi at the top of the page
+T01,rater_b,thời tiết hà nội ngày mai,know_simple,weather,National weather service forecast page for Hanoi,FullyM,High,Official forecast answers the exact question with date and temperature
+T02,rater_a,cách nấu phở bò,know,food,Home cook blog with step-by-step pho recipe and photos,HM,Medium,Full recipe with quantities and steps but no tips for broth timing
+T02,rater_b,cách nấu phở bò,know,food,Home cook blog with step-by-step pho recipe and photos,HM,Medium,Clear recipe that most users can follow at home
+T03,rater_a,triệu chứng sốt xuất huyết,know,health,Hospital article on dengue symptoms reviewed by a doctor,HM,High,Doctor-reviewed hospital page lists warning signs and when to see a doctor
+T03,rater_b,triệu chứng sốt xuất huyết,know,health,Hospital article on dengue symptoms reviewed by a doctor,MM,High,Good source but symptoms are buried below a long introduction
+T04,rater_a,vé tàu hà nội đà nẵng,do,travel,Railway operator booking page,HM,High,User can check schedules and book tickets directly on the official site
+T04,rater_b,vé tàu hà nội đà nẵng,do,travel,Railway operator booking page,HM,High,Official booking flow lets the user complete the task
+T05,rater_a,lịch thi thpt 2026,know_simple,news,Forum post copying an old exam schedule,SM,Low,Forum copy of last year's schedule may mislead students about dates
+T05,rater_b,lịch thi thpt 2026,know_simple,news,Forum post copying an old exam schedule,FailsM,Lowest,Wrong year and no source so the page fails the need
+T06,rater_a,shopee,website,shopping,Shopee Vietnam homepage,FullyM,High,The user wants this exact website and the result is its homepage
+T06,rater_b,shopee,website,shopping,Shopee Vietnam homepage,FullyM,High,Navigational query and the official homepage is returned
+T07,rater_a,quán cà phê gần hồ gươm,visit_in_person,local,Map pack with cafes around Hoan Kiem Lake,HM,Medium,Map shows several nearby cafes with ratings and opening hours
+T07,rater_b,quán cà phê gần hồ gươm,visit_in_person,local,Map pack with cafes around Hoan Kiem Lake,HM,Medium,Useful list of nearby options with directions
+T08,rater_a,vay tiền online lãi suất thấp,know,finance,Anonymous lending page with no license or address,SM,Lowest,No license or company details so the page is risky for a money topic
+T08,rater_b,vay tiền online lãi suất thấp,know,finance,Anonymous lending page with no license or address,FailsM,Lowest,Unlicensed lender on a finance query can harm the user
